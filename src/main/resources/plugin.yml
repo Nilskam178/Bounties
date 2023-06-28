@@ -1,0 +1,11 @@
+name: Bounties
+version: '${project.version}'
+main: bountyhunter.bountyhunter.Bountyhunter
+api-version: 1.19
+prefix: BO
+depend: [ Vault ]
+authors: [ Crusader420_ ]
+description: A plugin that enables the player to create bounties on other players
+commands:
+  bounties:
+    aliases: [bo, bounty, bounties]

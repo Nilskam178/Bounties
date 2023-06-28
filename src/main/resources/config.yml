@@ -1,0 +1,12 @@
+currency-prefix: "$"
+max-bounty: 999999999
+min-bounty: 999
+
+##In percentage
+bounty-tax: 15
+
+##9, 18, 27, 36, 45, 54
+bounty-list-inventory-size: 18
+
+##In minutes
+bounty-cooldown: 60
